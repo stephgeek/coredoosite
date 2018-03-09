@@ -1,0 +1,1 @@
+# coredoo-base
